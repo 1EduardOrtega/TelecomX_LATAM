@@ -8,7 +8,10 @@ A través de técnicas de **análisis de datos ** y visualizaciones con gráfico
 
 ## Contenido del Proyecto
 - **Importación y limpieza de datos** 
-- **Tratamiento de datos** para corrección valores nulos, traducción nombres de columnas y transformación de variables categóricas a formato numérico.
+- **Tratamiento de datos**
+  - corrección valores nulos
+  - traducción nombres de columnas
+  - transformación de variables categóricas a formato numérico.
 - **Análisis exploratorio de datos**:
   - Distribución de evasión por género.
   - Relación con el tipo de contrato.
@@ -21,26 +24,26 @@ A través de técnicas de **análisis de datos ** y visualizaciones con gráfico
 ---
 
 ## Tecnologías Utilizadas
-- **Python
-- **pandas 
-- **numpy
-- **matplotlib
-- **seaborn
-- **plotly
+- Python
+- pandas 
+- numpy
+- matplotlib
+- seaborn
+- plotly
 
 ---
 ## Principales Insights
-- **Clientes con contratos mensuales y métodos de pago no automáticos son mayores predictores a evasión 
-- **Clientes que cuentan con internet de fibra óptica y cargos mensuales altos pueden presentar factores de insatisfacción de los clientes y por lo tanto llevar a evasión
-- **Adultos mayores, pueden requerir una mayor atención para lograr una retención y evitar la evasión en ese segmento de clientes 
-- **Servicios adicionales parecen lograr retener a los clientes disminuyendo el porcentaje de evasión
-- **La antigüedad de los clientes tiende a ser un factor de evasión por lo que los primeros meses puede ser un reto mantener a estos clientes.
+- Clientes con contratos mensuales y métodos de pago no automáticos son mayores predictores a evasión 
+- Clientes que cuentan con internet de fibra óptica y cargos mensuales altos pueden presentar factores de insatisfacción de los clientes y por lo tanto llevar a evasión
+- Adultos mayores, pueden requerir una mayor atención para lograr una retención y evitar la evasión en ese segmento de clientes 
+- Servicios adicionales parecen lograr retener a los clientes disminuyendo el porcentaje de evasión
+- La antigüedad de los clientes tiende a ser un factor de evasión por lo que los primeros meses puede ser un reto mantener a estos clientes.
 
 ## Recomendaciones
-- **Incentivar a los clientes a tener contratos a largo plazo
-- **Crear un programa de fidelidad, 
-- **Incentivar a los clientes a hacer uso de métodos de pago automáticos 
-- **Mejorar el servicio brindado de fibra óptica
-- **Soporte técnico proactivo, 
-- **Crear un programa de atención personalizada para adultos mayores
-- **Promover con mayor eficiencia los servicios adicionales
+- Incentivar a los clientes a tener contratos a largo plazo
+- Crear un programa de fidelidad, 
+- Incentivar a los clientes a hacer uso de métodos de pago automáticos 
+- Mejorar el servicio brindado de fibra óptica
+- Soporte técnico proactivo, 
+- Crear un programa de atención personalizada para adultos mayores
+- Promover con mayor eficiencia los servicios adicionales
