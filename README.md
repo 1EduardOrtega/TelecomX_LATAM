@@ -1,8 +1,8 @@
 # TelecomX_LATAM
 
 ##  Descripción del Proyecto
-Este proyecto tiene como objetivo analizar los factores que influyen en la **evasión de clientes (Churn)** en la empresa Telecom X.  
-A través de técnicas de **análisis de datos ** y visualizaciones con gráficos, buscamos identificar patrones y variables clave que permitan **reducir la pérdida de clientes**.
+Este proyecto tiene como objetivo analizar los factores que influyen en la evasión de clientes (Churn) en la empresa Telecom X.  
+A través de técnicas de análisis de datos y visualizaciones con gráficos, buscamos identificar patrones y variables clave que permitan reducir la pérdida de clientes.
 
 ---
 
